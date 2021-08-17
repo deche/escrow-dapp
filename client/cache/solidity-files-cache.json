@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/deche/code/chainshot/solidity/escrow/src/contracts/Escrow.sol": {
+      "lastModificationDate": 1629036493301,
+      "contentHash": "aeb8cd305d6383926a43958fb8469337",
+      "sourceName": "src/contracts/Escrow.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Escrow"
+      ]
+    }
+  }
+}
